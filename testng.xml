@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.rameshsoft.automation.utility.ITestListner"></listener>
+</listeners>
+  <test name="Test">
+  <parameter name="Browser" value="ChromeBrowser"/>
+  <classes>
+ <class name="com.rameshsoft.automation.TestCases.BusinessScripts"/>
+  <class name="com.rameshsoft.automation.TestCases.Facebook"/> 
+   <class name="com.rameshsoft.automation.TestCases.FlipkartTest"/>
+ <class name="com.rameshsoft.automation.TestCases.GmailLoginTest"/> 
+  <class name="com.rameshsoft.automation.TestCases.PhpTravels"/> 
+  </classes>
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

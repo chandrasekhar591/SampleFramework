@@ -1,0 +1,227 @@
+2017-11-28 21:04:45 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-28 21:04:56 INFO  DriverUtility:27 - Entered the url
+2017-11-28 21:04:57 INFO  DriverUtility:29 - Entered  the username
+2017-11-28 21:06:43 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-28 21:06:57 INFO  FlipkartTest:27 - Entered the url
+2017-11-28 21:06:57 INFO  FlipkartTest:29 - Entered  the username
+2017-11-28 21:08:05 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-28 21:08:25 INFO  BusinessScripts:24 - Entered the url:.
+2017-11-28 21:08:51 INFO  Facebook:23 - navigate to the urlhttps://www.facebook.com
+2017-11-28 21:08:55 INFO  FlipkartTest:27 - Entered the url
+2017-11-28 21:08:55 INFO  FlipkartTest:29 - Entered  the username
+2017-11-29 14:27:06 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:28:24 INFO  PhpTravels:20 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:36:44 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:37:51 INFO  PhpTravels:21 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:37:51 INFO  PhpTravels:24 - click on My account link//li[@id='li_myaccount']/a/i
+2017-11-29 14:42:58 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:43:42 INFO  PhpTravels:21 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:43:42 INFO  PhpTravels:24 - click on My account link//li[@id='li_myaccount']/a/i
+2017-11-29 14:49:32 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:49:54 INFO  PhpTravels:21 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:49:54 INFO  PhpTravels:24 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 14:49:54 INFO  PhpTravels:29 - clicked on login icon--.//*[@id='li_myaccount']/ul/li[1]/a
+2017-11-29 14:52:17 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:53:02 INFO  PhpTravels:21 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:53:02 INFO  PhpTravels:24 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 14:53:02 INFO  PhpTravels:29 - clicked on login icon--.//*[@id='li_myaccount']/ul/li[1]/a
+2017-11-29 14:56:19 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:56:48 INFO  PhpTravels:21 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:56:48 INFO  PhpTravels:24 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 14:59:25 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 14:59:58 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 14:59:59 INFO  PhpTravels:27 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 15:06:49 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 15:07:24 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 15:07:24 INFO  PhpTravels:27 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 15:09:07 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 15:09:33 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 15:09:33 INFO  PhpTravels:27 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 15:10:20 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 15:10:48 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 15:10:49 INFO  PhpTravels:27 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 15:13:13 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 15:13:48 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 15:13:48 INFO  PhpTravels:27 - click on My account link.//*[@id='li_myaccount']/a
+2017-11-29 15:24:38 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 15:25:00 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:04:57 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:05:48 INFO  PhpTravels:22 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:17:02 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:17:24 INFO  PhpTravels:24 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:21:31 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:21:58 INFO  PhpTravels:25 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:23:29 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:24:05 INFO  PhpTravels:25 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:25:42 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:26:13 INFO  PhpTravels:25 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:28:50 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:29:15 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:32:11 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:32:55 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:34:11 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:34:38 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:36:21 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:36:44 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:45:19 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:45:47 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:47:58 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:48:41 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:48:42 INFO  PhpTravels:30 - Click on hotels to bookhtml/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 18:57:01 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 18:57:21 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 18:57:22 INFO  PhpTravels:30 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 18:57:24 INFO  PhpTravels:33 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[7]/td/div[2]/div/h4/a/b
+2017-11-29 19:00:09 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 19:01:06 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:01:06 INFO  PhpTravels:30 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:06:56 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 19:07:29 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:07:29 INFO  PhpTravels:30 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:07:32 INFO  PhpTravels:34 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[7]/td/div[2]/div/h4/a/b                  
+2017-11-29 19:09:18 INFO  DriverUtility:46 -  created a object is --FirefoxBrowser
+2017-11-29 19:09:51 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:09:51 INFO  PhpTravels:30 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:09:55 INFO  PhpTravels:34 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 19:12:49 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 19:13:17 INFO  PhpTravels:26 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:13:19 INFO  PhpTravels:30 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:13:22 INFO  PhpTravels:35 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 19:13:29 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 19:34:00 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 19:34:33 INFO  PhpTravels:27 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:34:33 INFO  PhpTravels:31 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:34:37 INFO  PhpTravels:36 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 19:34:44 INFO  PhpTravels:39 - Title of page isRendezvous Hotels
+2017-11-29 19:34:45 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 19:44:26 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 19:44:36 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 19:45:51 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 19:46:47 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:46:47 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:46:52 INFO  PhpTravels:38 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 19:47:20 INFO  PhpTravels:41 - Title of page is  Rendezvous Hotels
+2017-11-29 19:47:26 INFO  PhpTravels:50 - Select data value[[FirefoxDriver: firefox on WINDOWS (df04128b-c8d8-47bc-959a-28687bfda163)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 19:47:27 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 19:49:30 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 19:50:12 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 19:50:12 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 19:50:17 INFO  PhpTravels:38 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 19:51:31 INFO  PhpTravels:41 - Title of page is  Rendezvous Hotels
+2017-11-29 19:51:36 INFO  PhpTravels:50 - Select data value[[FirefoxDriver: firefox on WINDOWS (cae8003d-a118-405d-a283-8ddccf36bd96)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 19:51:36 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 20:00:27 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 20:02:10 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 20:02:11 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 20:02:17 INFO  PhpTravels:38 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 20:03:07 INFO  PhpTravels:41 - Title of page is  Rendezvous Hotels
+2017-11-29 20:03:12 INFO  PhpTravels:50 - Select data value[[FirefoxDriver: firefox on WINDOWS (5ff7dd66-21fc-44ca-a094-3a4fed23e63b)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 20:03:12 INFO  PhpTravels:53 - check the availability of room
+2017-11-29 20:03:12 INFO  PhpTravels:55 - selecting date..[[FirefoxDriver: firefox on WINDOWS (5ff7dd66-21fc-44ca-a094-3a4fed23e63b)] -> xpath: .//*[@id='52']]
+2017-11-29 20:07:49 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 20:08:29 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 20:08:29 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 20:08:34 INFO  PhpTravels:38 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 20:08:41 INFO  PhpTravels:41 - Title of page is  Rendezvous Hotels
+2017-11-29 20:08:48 INFO  PhpTravels:50 - Select data value[[FirefoxDriver: firefox on WINDOWS (18e90537-ea3f-4785-8b64-32aa6c26e542)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 20:08:48 INFO  PhpTravels:53 - check the availability of room
+2017-11-29 20:08:48 INFO  PhpTravels:55 - selecting date..[[FirefoxDriver: firefox on WINDOWS (18e90537-ea3f-4785-8b64-32aa6c26e542)] -> xpath: .//*[@id='52']]
+2017-11-29 20:12:11 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 20:12:36 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 20:12:37 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 20:12:39 INFO  PhpTravels:38 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 20:12:46 INFO  PhpTravels:41 - Title of page is  Rendezvous Hotels
+2017-11-29 20:12:51 INFO  PhpTravels:50 - Select data value[[FirefoxDriver: firefox on WINDOWS (be0eb728-c9aa-4b5d-a586-35a7df02f119)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 20:12:51 INFO  PhpTravels:53 - check the availability of room
+2017-11-29 20:12:51 INFO  PhpTravels:55 - selecting date..[[FirefoxDriver: firefox on WINDOWS (be0eb728-c9aa-4b5d-a586-35a7df02f119)] -> xpath: .//*[@id='52']]
+2017-11-29 20:12:55 INFO  PhpTravels:58 - date selected
+2017-11-29 20:12:56 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 21:31:45 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 21:32:17 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 21:32:18 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 21:32:20 INFO  PhpTravels:37 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 21:32:29 INFO  PhpTravels:40 - Title of page is  Rendezvous Hotels
+2017-11-29 21:32:33 INFO  PhpTravels:48 - Select data value[[FirefoxDriver: firefox on WINDOWS (eab845e3-fb89-4585-aa03-58659367aab8)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 21:32:33 INFO  PhpTravels:51 - check the availability of room
+2017-11-29 21:32:33 INFO  PhpTravels:53 - selecting date..[[FirefoxDriver: firefox on WINDOWS (eab845e3-fb89-4585-aa03-58659367aab8)] -> xpath: .//*[@id='52']]
+2017-11-29 21:32:36 INFO  PhpTravels:57 - date selected
+2017-11-29 21:32:37 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 21:33:13 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 21:33:54 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 21:33:55 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 21:34:14 INFO  PhpTravels:37 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 21:34:30 INFO  PhpTravels:40 - Title of page is  Rendezvous Hotels
+2017-11-29 21:34:34 INFO  PhpTravels:48 - Select data value[[FirefoxDriver: firefox on WINDOWS (686588b8-ff47-4301-bc38-9a2e83e23a5f)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 21:34:34 INFO  PhpTravels:51 - check the availability of room
+2017-11-29 21:34:34 INFO  PhpTravels:53 - selecting date..[[FirefoxDriver: firefox on WINDOWS (686588b8-ff47-4301-bc38-9a2e83e23a5f)] -> xpath: .//*[@id='52']]
+2017-11-29 21:34:38 INFO  PhpTravels:57 - date selected
+2017-11-29 21:34:39 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 21:40:52 INFO  DriverUtility:47 -  created a object is --FirefoxBrowser
+2017-11-29 21:41:34 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 21:41:34 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 21:41:40 INFO  PhpTravels:37 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 21:42:14 INFO  PhpTravels:40 - Title of page is  Rendezvous Hotels
+2017-11-29 21:42:18 INFO  PhpTravels:48 - Select data value[[FirefoxDriver: firefox on WINDOWS (094446d4-4fa0-45d0-8124-a9b7509b7396)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 21:42:19 INFO  PhpTravels:51 - check the availability of room
+2017-11-29 21:42:19 INFO  PhpTravels:53 - selecting date..[[FirefoxDriver: firefox on WINDOWS (094446d4-4fa0-45d0-8124-a9b7509b7396)] -> xpath: .//*[@id='52']]
+2017-11-29 21:42:22 INFO  PhpTravels:57 - date selected
+2017-11-29 21:42:26 INFO  PhpTravels:60 - book the room.//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[5]/div[3]/button
+2017-11-29 21:42:27 INFO  DriverUtility:94 - close the broesernull
+2017-11-29 22:13:35 INFO  DriverUtility:57 -  created a object is --FirefoxBrowser
+2017-11-29 22:14:26 INFO  BusinessScripts:24 - Entered the url:.
+2017-11-29 22:14:38 INFO  Facebook:23 - navigate to the urlhttps://www.facebook.com
+2017-11-29 22:14:45 INFO  FlipkartTest:27 - Entered the url
+2017-11-29 22:14:45 INFO  FlipkartTest:29 - Entered  the username
+2017-11-29 22:15:13 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-11-29 22:16:45 INFO  PhpTravels:33 - Click on hotels to book---html/body/nav[1]/div/div/div/ul/li[2]/a
+2017-11-29 22:16:51 INFO  PhpTravels:37 - click on  identified room.//*[@id='body-section']/div[7]/div[2]/div/table/tbody/tr[1]/td/div[2]/div/h4/a/b                  
+2017-11-29 22:18:02 INFO  PhpTravels:40 - Title of page is  Rendezvous Hotels
+2017-11-29 22:18:06 INFO  PhpTravels:48 - Select data value[[FirefoxDriver: firefox on WINDOWS (1756787b-b52c-4ee8-ad19-e3db96909fe0)] -> xpath: .//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[2]/div/div[2]/div/select]
+2017-11-29 22:18:07 INFO  PhpTravels:51 - check the availability of room
+2017-11-29 22:18:07 INFO  PhpTravels:53 - selecting date..[[FirefoxDriver: firefox on WINDOWS (1756787b-b52c-4ee8-ad19-e3db96909fe0)] -> xpath: .//*[@id='52']]
+2017-11-29 22:18:12 INFO  PhpTravels:57 - date selected
+2017-11-29 22:18:19 INFO  PhpTravels:60 - book the room.//*[@id='ROOMS']/div/table/tbody/tr[1]/td/div[2]/div/div[5]/div[3]/button
+2017-11-29 22:18:20 INFO  DriverUtility:104 - close the broesernull
+2017-11-30 11:44:08 INFO  DriverUtility:57 -  created a object is --FirefoxBrowser
+2017-11-30 11:45:07 INFO  BusinessScripts:24 - Entered the url:.
+2017-11-30 11:45:26 INFO  Facebook:23 - navigate to the urlhttps://www.facebook.com
+2017-11-30 11:45:40 INFO  FlipkartTest:27 - Entered the url
+2017-11-30 11:45:40 INFO  FlipkartTest:29 - Entered  the username
+2017-11-30 11:46:26 INFO  PhpTravels:29 - navigate to the url--http://www.phptravels.net/
+2017-12-08 10:41:21 INFO  DriverUtility:57 -  created a object is --FirefoxBrowser
+2017-12-11 19:06:43 INFO  DriverUtility:57 -  created a object is --FirefoxBrowser
+2017-12-11 19:08:46 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:09:17 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:10:45 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:11:58 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:12:10 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 19:17:26 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:17:57 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 19:20:28 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:20:58 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 19:20:58 INFO  CRMApp:33 - navigated to usernameusername
+2017-12-11 19:20:58 INFO  CRMApp:34 - navigated to userdatanaveenk
+2017-12-11 19:25:34 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:25:46 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 19:25:46 INFO  CRMApp:33 - navigated to username   - username
+2017-12-11 19:25:46 INFO  CRMApp:34 - navigated to userdata     -naveenk
+2017-12-11 19:37:42 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 19:37:52 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 19:37:52 INFO  CRMApp:33 - navigated to username   - username
+2017-12-11 19:37:52 INFO  CRMApp:34 - navigated to userdata     -naveenk
+2017-12-11 21:41:10 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 21:41:26 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 21:41:27 INFO  CRMApp:33 - navigated to username   - username
+2017-12-11 21:41:27 INFO  CRMApp:34 - navigated to userdata     -naveenk
+2017-12-11 21:43:14 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 21:43:27 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 21:43:27 INFO  CRMApp:33 - navigated to username   - username
+2017-12-11 21:43:27 INFO  CRMApp:34 - navigated to userdata     -naveenk
+2017-12-11 21:45:43 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 21:45:52 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 21:45:52 INFO  CRMApp:33 - navigated to username   - username
+2017-12-11 21:45:52 INFO  CRMApp:34 - navigated to userdata     -naveenk
+2017-12-11 21:47:44 INFO  DriverUtility:57 -  created a object is --ChromeBrowser
+2017-12-11 21:47:56 INFO  CRMApp:24 - navigated to urlhttps://www.freecrm.com/index.html
+2017-12-11 21:47:56 INFO  CRMApp:33 - navigated to username   - username
+2017-12-11 21:47:56 INFO  CRMApp:34 - navigated to userdata     -naveenk
